@@ -7,7 +7,6 @@ function Header() {
 
       <div class="flex mx-5 my-2 py-2 bg-ivory shadow-md rounded-full">
         <a href="#" class="text-primary  px-4 py-1">
-          {/* hover pe dark hona chahiye primary color */}
           dashboard
         </a>
         <a href="#" class="text-primary  px-4 py-1">
