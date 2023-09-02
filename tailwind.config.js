@@ -9,6 +9,7 @@ export default {
       },
       colors: {
         primary: "#0d1137",
+        ivory: "#FFFFF0	",
         secondary: "F5DDE0",
       },
     },
